@@ -3,7 +3,7 @@
 #include <windows.h>
 #include <stdio.h>
 #include <string>
-#include <cstdlib> // for rand() and srand()
+#include <cstdlib> // for rand(), srand() and exit()
 #include <ctime>   // for time()
 
 #define okay(msg, ...) printf("[+] " msg "\n", ##__VA_ARGS__)

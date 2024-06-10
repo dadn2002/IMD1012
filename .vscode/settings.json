@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "xstring": "cpp",
-        "string": "cpp"
-    }
+        "string": "cpp",
+        "cstdlib": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
