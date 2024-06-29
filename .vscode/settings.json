@@ -2,7 +2,8 @@
     "files.associations": {
         "xstring": "cpp",
         "string": "cpp",
-        "cstdlib": "cpp"
+        "cstdlib": "cpp",
+        "ctime": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
